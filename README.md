@@ -1,6 +1,6 @@
-# Muchoki Wokabi
+# Simon P.M.W
 
-> Hey, myself Muchoki and here's a look at my [portfolio website](https://simonpmw.netlify.app)!
+> Hey, myself Simon and here's a look at my [portfolio website](https://simonpmw.netlify.app)!
 
 ---
 
