@@ -1,12 +1,12 @@
-# Murtuzaali Surti
+# Muchoki Wokabi
 
-> Hey, myself Murtuza and here's a look at my [portfolio website](https://murtuzaalisurti.github.io)!
+> Hey, myself Muchoki and here's a look at my [portfolio website](https://simonpmw.netlify.app)!
 
 ---
 
-## Want to contribute?
+## Wanna contribute?
 
-Here are some [guidelines](https://github.com/murtuzaalisurti/murtuzaalisurti.github.io/blob/master/contributing.md)!
+Here are some [guidelines](https://github.com/techbrv/techbrv.github.io/blob/master/contributing.md)!
 
 ---
 
