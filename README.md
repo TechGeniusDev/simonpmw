@@ -1,6 +1,6 @@
 # Simon P.M.W
 
-> Hey, myself Simon | Here's my [fundraising website](https://simonpmw.vercel.app)!
+> Hey, myself Simon | Here's my [docs website](https://simonpmw.vercel.app)!
 
 ---
 
